@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\TextChange\bin\Debug\TextChange.exe.config
+C:\Users\student\Desktop\TextChange\bin\Debug\TextChange.exe
+C:\Users\student\Desktop\TextChange\bin\Debug\TextChange.pdb
+C:\Users\student\Desktop\TextChange\obj\Debug\TextChange.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\TextChange\obj\Debug\TextChange.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\TextChange\obj\Debug\TextChange.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\TextChange\obj\Debug\TextChange.exe
+C:\Users\student\Desktop\TextChange\obj\Debug\TextChange.pdb
+E:\TextChange\bin\Debug\TextChange.exe.config
+E:\TextChange\bin\Debug\TextChange.exe
+E:\TextChange\bin\Debug\TextChange.pdb
+E:\TextChange\obj\Debug\TextChange.csproj.AssemblyReference.cache
+E:\TextChange\obj\Debug\TextChange.csproj.SuggestedBindingRedirects.cache
+E:\TextChange\obj\Debug\TextChange.csproj.CoreCompileInputs.cache
+E:\TextChange\obj\Debug\TextChange.exe
+E:\TextChange\obj\Debug\TextChange.pdb
